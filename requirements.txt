@@ -1,0 +1,5 @@
+Django==3.2.11
+psycopg2>=2.9.3
+graphene-django>=2.15.0
+django-filter>=21.1
+django-graphql-jwt>=0.3.4
